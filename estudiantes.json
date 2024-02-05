@@ -1,0 +1,18 @@
+{
+    "alumno1": {
+      "nombre": "Pipito el condenas",
+      "edad": 20,
+      "materias": ["Recreo", "Conocimiento del medio"]
+    },
+    "alumno2": {
+      "nombre": "El gringo tiroloco",
+      "edad": 21,
+      "materias": ["Historia de la locura", "tiradores"]
+    },
+    "alumno3": {
+      "nombre": "El macho",
+      "edad": 22,
+      "materias": ["Lanzamiento de gominolas", "Programación"]
+    }
+  }
+  

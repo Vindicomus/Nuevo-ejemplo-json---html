@@ -1,0 +1,16 @@
+
+
+.estudiante-card {
+    border: 2px solid #007BFF; /* Bordes de la tarjeta */
+    border-radius: 10px; /* Bordes redondeados */
+    padding: 15px; /* Espaciado interno */
+    margin-bottom: 20px; /* Margen inferior */
+    background-color: #FFF; /* Fondo blanco */
+}
+.color-morado {
+    background-color: purple;
+    color: white;
+}
+
+
+
